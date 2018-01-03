@@ -79,7 +79,7 @@ delete jedi.masters[1];
 console.log(jedi.masters); // [ 'Obi-Wan Kenobi', 'Yoda' ]
 ```
 
-Note that when you're using the [`strict`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode) mode, any attempt on changing the frozen object will throws a `TypeError` exception.
+Note that when you're using a [`strict`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode) mode, any attempt on changing the frozen object will throw a [`TypeError`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError) exception.
 
 ## License
 
