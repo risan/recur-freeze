@@ -10,18 +10,18 @@ const canBeFrozen = item => {
   return !Object.isFrozen(item);
 };
 
-const requrFreeze = obj => {
+const recurFreeze = obj => {
   const propNames = Object.getOwnPropertyNames(obj);
 
   propNames.forEach(propName => {
     const prop = obj[propName];
 
     if (canBeFrozen(prop)) {
-      requrFreeze(prop);
+      recurFreeze(prop);
     }
   });
 
   return Object.freeze(obj);
 };
 
-export default requrFreeze;
+export default recurFreeze;

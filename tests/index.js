@@ -1,4 +1,4 @@
-import requrFreeze from '../src';
+import recurFreeze from '../src';
 
 test('it can freeze object', () => {
   const person = {
@@ -12,7 +12,7 @@ test('it can freeze object', () => {
     languages: ['English', 'Indonesia']
   };
 
-  requrFreeze(person);
+  recurFreeze(person);
 
   // Change property value
   expect(() => (person.name = 'doe')).toThrow(TypeError);

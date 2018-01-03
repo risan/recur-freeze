@@ -11,7 +11,7 @@ const umdConfig = ({ minify = false } = {}) => {
       file: minify ? `dist/${pkg.name}.umd.min.js` : `dist/${pkg.name}.umd.js`,
       format: 'umd'
     },
-    name: 'requrFreeze',
+    name: 'recurFreeze',
     plugins: [
       eslint({
         include: ['src/**'],

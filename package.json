@@ -1,9 +1,9 @@
 {
-  "name": "requr-freeze",
+  "name": "recur-freeze",
   "description": "A package to recursively freeze an object",
   "version": "1.0.0-alpha.1",
   "license": "CC-BY-SA-4.0",
-  "homepage": "https://github.com/risan/requr-freeze#readme",
+  "homepage": "https://github.com/risan/recur-freeze#readme",
   "author": {
     "name": "Risan Bagja Pradana",
     "email": "risanbagja@gmail.com",
@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/risan/requr-freeze.git"
+    "url": "git+https://github.com/risan/recur-freeze.git"
   },
   "bugs": {
-    "url": "https://github.com/risan/requr-freeze/issues"
+    "url": "https://github.com/risan/recur-freeze/issues"
   },
   "keywords": [
     "object",
@@ -22,9 +22,9 @@
     "recursive",
     "deep"
   ],
-  "main": "dist/requr-freeze.cjs.js",
-  "module": "dist/requr-freeze.esm.js",
-  "browser": "dist/requr-freeze.umd.js",
+  "main": "dist/recur-freeze.cjs.js",
+  "module": "dist/recur-freeze.esm.js",
+  "browser": "dist/recur-freeze.umd.js",
   "engines": {
     "node": ">= 6"
   },
