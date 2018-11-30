@@ -10,7 +10,7 @@ exclude_patterns:
   - ".npmignore"
   - ".travis.yml"
   - "jest.config.js"
-  - "LICENSE"
+  - "LICENSE.txt"
   - "package.json"
   - "README.md"
   - "rollup.config.js"
