@@ -2,12 +2,19 @@
   "env": {
     "build": {
       "presets": [
-        ["env", { "modules": false }]
-      ],
-      "plugins": ["external-helpers"]
+        ["@babel/preset-env", {
+          "modules": false,
+          "useBuiltIns": "usage"
+        }]
+      ]
     },
-    "jest": {
-      "presets": ["env"]
+    "test": {
+      "presets": [
+        ["@babel/preset-env", {
+          "useBuiltIns": "usage",
+          "targets": "node 8"
+        }]
+      ]
     }
   }
 }
