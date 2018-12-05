@@ -6,7 +6,7 @@
 [![Latest Stable Version](https://flat.badgen.net/npm/v/recur-freeze)](https://www.npmjs.com/package/recur-freeze)
 [![Node Version](https://flat.badgen.net/npm/node/recur-freeze)](https://www.npmjs.com/package/recur-freeze)
 [![Code Style: Prettier](https://flat.badgen.net/badge/code%20style/prettier/ff69b4)](https://github.com/prettier/prettier)
-[![License](https://flat.badgen.net/npm/license/recur-freeze)](https://github.com/risan/recur-freeze/blob/master/LICENSE.txt)
+[![License](https://flat.badgen.net/npm/license/recur-freeze)](https://github.com/risan/recur-freeze/blob/master/LICENSE.txt) [![Greenkeeper badge](https://badges.greenkeeper.io/risan/recur-freeze.svg)](https://greenkeeper.io/)
 
 Freeze an object recursively.
 
