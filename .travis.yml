@@ -5,7 +5,7 @@ matrix:
     - node_js: 10
       env: COLLECT_COVERAGE=true
 after_success:
-  - if [[ "$COLLECT_COVERAGE" = "true" ]]; then bash <(curl -s https://codecov.io/bash); fi
+  - if [[ "$COLLECT_COVERAGE" = "true" ]]; then bash <(curl -s https://codecov.io/bash123); fi
 cache: npm
 notifications:
   email:
