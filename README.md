@@ -5,28 +5,26 @@
 [![Greenkeeper](https://badges.greenkeeper.io/risan/recur-freeze.svg?style=flat-square)](https://greenkeeper.io)
 [![Latest Version](https://flat.badgen.net/npm/v/recur-freeze)](https://www.npmjs.com/package/recur-freeze)
 
-Freeze an object recursively.
+Freeze object recursively.
 
-## Install
+## Installation
 
 ```bash
 $ npm install recur-freeze
-
-# Or if you use Yarn
-$ yarn add recur-freeze
 ```
 
-Use this library directly on the browser:
+### CDN
+
+The library is available over a CDN:
 
 ```html
-<!-- For development -->
 <script src="https://unpkg.com/recur-freeze@latest/dist/recur-freeze.umd.js"></script>
 
-<!-- Minified version for production -->
+<!-- Or the minified version -->
 <script src="https://unpkg.com/recur-freeze@latest/dist/recur-freeze.umd.min.js"></script>
 ```
 
-## Quick Start
+## Usage
 
 ```js
 const recurFreeze = require("recur-freeze");

@@ -1,12 +1,11 @@
 {
   "name": "recur-freeze",
-  "version": "1.0.4",
-  "description": "Freeze an object recursively.",
+  "version": "1.0.5",
+  "description": "Freeze object recursively.",
   "keywords": [
-    "object",
     "freeze",
-    "recursive",
-    "deep"
+    "object",
+    "recursive"
   ],
   "homepage": "https://github.com/risan/recur-freeze#readme",
   "bugs": {
