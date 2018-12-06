@@ -3,10 +3,15 @@
 [![Build Status](https://flat.badgen.net/travis/risan/recur-freeze)](https://travis-ci.org/risan/recur-freeze)
 [![Test Coverage](https://flat.badgen.net/codeclimate/coverage/risan/recur-freeze)](https://codeclimate.com/github/risan/recur-freeze)
 [![Maintainability](https://flat.badgen.net/codeclimate/maintainability/risan/recur-freeze)](https://codeclimate.com/github/risan/recur-freeze)
+[![Code Style: Prettier](https://flat.badgen.net/badge/code%20style/prettier/ff69b4)](https://github.com/prettier/prettier)
+
+[![Greenkeeper](https://badges.greenkeeper.io/risan/recur-freeze.svg?style=flat-square)](https://greenkeeper.io/)
+[![Dev Dependencies](https://flat.badgen.net/david/dev/risan/recur-freeze)](https://david-dm.org/risan/recur-freeze?type=dev)
+
 [![Latest Stable Version](https://flat.badgen.net/npm/v/recur-freeze)](https://www.npmjs.com/package/recur-freeze)
 [![Node Version](https://flat.badgen.net/npm/node/recur-freeze)](https://www.npmjs.com/package/recur-freeze)
-[![Code Style: Prettier](https://flat.badgen.net/badge/code%20style/prettier/ff69b4)](https://github.com/prettier/prettier)
-[![License](https://flat.badgen.net/npm/license/recur-freeze)](https://github.com/risan/recur-freeze/blob/master/LICENSE.txt) [![Greenkeeper badge](https://badges.greenkeeper.io/risan/recur-freeze.svg)](https://greenkeeper.io/)
+[![License](https://flat.badgen.net/npm/license/recur-freeze)](https://github.com/risan/recur-freeze/blob/master/LICENSE.txt)
+[![Minified Gzip](https://flat.badgen.net/bundlephobia/minzip/recur-freeze)](https://bundlephobia.com/result?p=recur-freeze)
 
 Freeze an object recursively.
 
