@@ -1,6 +1,6 @@
 {
   "name": "recur-freeze",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Freeze an object recursively.",
   "keywords": [
     "object",
