@@ -1,7 +1,7 @@
 {
   "name": "recur-freeze",
-  "version": "1.0.2",
-  "description": "Freeze an object recursively",
+  "version": "1.0.3",
+  "description": "Freeze an object recursively.",
   "keywords": [
     "object",
     "freeze",
@@ -16,7 +16,7 @@
   "author": {
     "name": "Risan Bagja Pradana",
     "email": "risanbagja@gmail.com",
-    "url": "https://risan.io"
+    "url": "https://bagja.net"
   },
   "main": "dist/recur-freeze.cjs.js",
   "browser": "dist/recur-freeze.umd.js",
