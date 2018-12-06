@@ -82,6 +82,6 @@ Note that when you're using a [`strict`](https://developer.mozilla.org/en-US/doc
 
 ## License
 
-CC-BY-SA 4.0 · [Risan Bagja Pradana](https://bagja.net)
+[CC-BY-SA 4.0](https://github.com/risan/recur-freeze/blob/master/LICENSE.txt) · [Risan Bagja Pradana](https://bagja.net)
 
-This package is based on code sample at MDN `Object.freeze` [documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/freeze) by [Mozilla Contributors](https://developer.mozilla.org/en-US/docs/MDN/About$history).
+> This package is based on code sample at MDN `Object.freeze` [documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/freeze) by [Mozilla Contributors](https://developer.mozilla.org/en-US/docs/MDN/About$history).
