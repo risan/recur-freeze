@@ -1,12 +1,9 @@
 # Recursive Freeze
 
+[![Latest Stable Version](https://flat.badgen.net/npm/v/recur-freeze)](https://www.npmjs.com/package/recur-freeze)
 [![Build Status](https://flat.badgen.net/travis/risan/recur-freeze)](https://travis-ci.org/risan/recur-freeze)
 [![Test Coverage](https://flat.badgen.net/codeclimate/coverage/risan/recur-freeze)](https://codeclimate.com/github/risan/recur-freeze)
-[![Maintainability](https://flat.badgen.net/codeclimate/maintainability/risan/recur-freeze)](https://codeclimate.com/github/risan/recur-freeze)
 [![Greenkeeper](https://badges.greenkeeper.io/risan/recur-freeze.svg?style=flat-square)](https://greenkeeper.io/)
-
-[![Latest Stable Version](https://flat.badgen.net/npm/v/recur-freeze)](https://www.npmjs.com/package/recur-freeze)
-[![License](https://flat.badgen.net/npm/license/recur-freeze)](https://github.com/risan/recur-freeze/blob/master/LICENSE.txt)
 
 Freeze an object recursively.
 
