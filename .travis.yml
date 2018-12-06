@@ -10,7 +10,7 @@ matrix:
       env: COLLECT_COVERAGE=true
     - node_js: 11
 after_success:
-  - if [[ "$COLLECT_COVERAGE" = "true" ]]; then bash <(curl -s https://codecov.io/bash); fi
+  - if [[ "$COLLECT_COVERAGE" = "true" ]]; then bash <(curl -s https://codecov.io/bash) || echo "Codecov fails to upload coverage reports"; fi
 cache: npm
 notifications:
   email:
