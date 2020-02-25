@@ -2,7 +2,6 @@
 
 [![Build Status](https://flat.badgen.net/travis/risan/recur-freeze)](https://travis-ci.org/risan/recur-freeze)
 [![Test Covarage](https://flat.badgen.net/codecov/c/github/risan/recur-freeze)](https://codecov.io/gh/risan/recur-freeze)
-[![Greenkeeper](https://badges.greenkeeper.io/risan/recur-freeze.svg?style=flat-square)](https://greenkeeper.io)
 [![Latest Version](https://flat.badgen.net/npm/v/recur-freeze)](https://www.npmjs.com/package/recur-freeze)
 
 Freeze object recursively.
